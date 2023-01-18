@@ -1,0 +1,19 @@
+{
+  "title": "requirement-details",
+  "description": "",
+  "properties": {
+    "identifier": {
+      "type": "string",
+      "title": "identifier"
+    },
+    "summary": {
+      "type": "string",
+      "title": "summary"
+    },
+    "description": {
+      "type": "string",
+      "title": "description"
+    }
+  },
+  "required": []
+}
